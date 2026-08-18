@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AR Logistica</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="ar_logistica">AR LOGÍSTICA</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="ingrese_correo">Ingrese su correo</string>
+    <string name="ingrese_contrasena">Ingrese su contraseña</string>
+    <string name="tipo_usuario">Tipo de usuario</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="olvidaste_contrasena">¿Olvidaste tu contraseña?</string>
+    <string name="crear_cuenta">Crear una cuenta</string>
+    <string name="contrasena">Contraseña</string>
+</resources>
